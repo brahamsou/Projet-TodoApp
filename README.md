@@ -1,7 +1,7 @@
 
 # Super Todo App !
 
-![logo](./public/Logo.png)
+![logo](https://raw.githubusercontent.com/Djeg/formation-react/session-projet/06-03-23/10-03-23/public/Logo.png)
 
 ## Installation
 
